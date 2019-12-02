@@ -1,0 +1,4 @@
+jupyter
+keras
+Pillow
+tensorflow
